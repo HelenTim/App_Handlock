@@ -126,3 +126,6 @@ npm run deploy
 ## License
 
 MIT
+
+
+###本文非本人所写，详情参考 http://www.codeceo.com/article/native-javascript-to-achieve-gesture-unlock.html#0-qzone-1-61725-d020d2d2a4e8d1a374a433f596ad1440
