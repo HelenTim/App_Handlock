@@ -128,4 +128,4 @@ npm run deploy
 MIT
 
 
-###本文非本人所写，详情参考 http://www.codeceo.com/article/native-javascript-to-achieve-gesture-unlock.html#0-qzone-1-61725-d020d2d2a4e8d1a374a433f596ad1440
+###此代码非本人所写，更详细参考 http://www.codeceo.com/article/native-javascript-to-achieve-gesture-unlock.html#0-qzone-1-61725-d020d2d2a4e8d1a374a433f596ad1440
