@@ -15,7 +15,7 @@
 ```html
 <script src="https://s2.ssl.qhres.com/!9f2db498/HandLock-0.2.1.min.js"></script>
 ```
-
+当然我已经把代码下载到js文件夹里，可下载下来直接使用
 ## API
 
 ### Locker
